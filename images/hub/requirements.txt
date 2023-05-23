@@ -181,7 +181,7 @@ pyyaml==6.0
     # via
     #   jupyterhub-kubespawner
     #   kubernetes-asyncio
-requests==2.27.1
+requests==2.31.0
     # via
     #   jupyterhub
     #   mwoauth
@@ -191,8 +191,6 @@ requests-oauthlib==1.3.1
     # via mwoauth
 ruamel-yaml==0.17.21
     # via jupyter-telemetry
-ruamel-yaml-clib==0.2.6
-    # via ruamel-yaml
 six==1.16.0
     # via
     #   kubernetes-asyncio
